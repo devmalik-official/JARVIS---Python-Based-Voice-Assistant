@@ -22,7 +22,7 @@ This project is built for learning and personal use. API keys are required for A
 ## Setup Instructions
 
 ### 1. Clone the repository
-- git clone https://github.com/yourusername/jarvis-voice-assistant.git
+- git clone https://github.com/devmalik-official/JARVIS---Python-Based-Voice-Assistant.git
 cd jarvis-voice-assistant
 
 ### 2. Create a virtual environment
@@ -60,6 +60,7 @@ cd jarvis-voice-assistant
 - Always keep your .env or API key files private.
 - The virtual environment folder (venv/) should not be committed to GitHub.
 - You can customize the musiclibrary.py file to add more songs or links.
+
 
 
 
