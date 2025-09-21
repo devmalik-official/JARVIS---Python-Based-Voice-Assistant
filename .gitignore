@@ -9,7 +9,6 @@ env/
 .venv/
 
 # Environment / API keys
-.env
 api
 
 # Logs
